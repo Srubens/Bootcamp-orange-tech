@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstraindoPOO/AbstraindoPOO.iml" filepath="$PROJECT_DIR$/AbstraindoPOO/AbstraindoPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp-ORANGE-TECH.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp-ORANGE-TECH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CamaroteBlue/CamaroteBlue.iml" filepath="$PROJECT_DIR$/CamaroteBlue/CamaroteBlue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DCMONALDS/DCMONALDS.iml" filepath="$PROJECT_DIR$/DCMONALDS/DCMONALDS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioMulta/DesafioMulta.iml" filepath="$PROJECT_DIR$/DesafioMulta/DesafioMulta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DownloadDePacotes/DownloadDePacotes.iml" filepath="$PROJECT_DIR$/DownloadDePacotes/DownloadDePacotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMOVEISDISPONIVEIS/IMOVEISDISPONIVEIS.iml" filepath="$PROJECT_DIR$/IMOVEISDISPONIVEIS/IMOVEISDISPONIVEIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MesadoDoSobrinho/MesadoDoSobrinho.iml" filepath="$PROJECT_DIR$/MesadoDoSobrinho/MesadoDoSobrinho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PONTOSNACARTEIRA/PONTOSNACARTEIRA.iml" filepath="$PROJECT_DIR$/PONTOSNACARTEIRA/PONTOSNACARTEIRA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SALVANDOMUSICAS/SALVANDOMUSICAS.iml" filepath="$PROJECT_DIR$/SALVANDOMUSICAS/SALVANDOMUSICAS.iml" />
+    </modules>
+  </component>
+</project>
