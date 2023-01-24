@@ -8,4 +8,4 @@ Desafios que estão sendo finalizados.
 - [x] Programação Orientada a Objetos com Java
 - [x] Ganhando produtividade com Spring Framework
 - [x] Dominando Algoritmos Intermediários com Desafios de Código Java
-- [ ] Fortalecendo sua Carreira Profissional
+- [x] Fortalecendo sua Carreira Profissional
